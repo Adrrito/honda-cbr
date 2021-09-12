@@ -1,0 +1,15 @@
+.gray-img {
+  filter: grayscale(100%);
+}
+.top-bg-color {
+  background-color: #264653;
+}
+.button-color {
+  background-color: #e76f51;
+}
+.text-orange {
+  color: #e76f51;
+}
+.text-blue {
+  color: #23a6f0;
+}
